@@ -9,4 +9,4 @@ The electrical baseboard house is so well insulated, that getting away from the 
 
 The real killer in all this is domestic hot water. Mini-split heat pumps are popular in my region, and likely excellent for space heating. But, they won't remove the need for fuel oil. There is still a need a "primary heating source", and some replacement for heating domestic hot water.
 
-The heat_loss_estimate sheet calculates heat loss for example structures. Enter the components of the structure (walls, attic, windows, doors), their thermal insulation value (in RSI or U-factor), their area and the temperature differential expected. 
+The heat_loss_estimate sheet calculates heat loss for example structures. Enter the components of the structure (walls, attic, windows, doors), their thermal insulation value (in R-value, RSI or U-factor), their area and the temperature differential expected. The 26'x20' garage example shows some Imperial to metric conversion as required.
